@@ -1,1 +1,2 @@
 # election-system-in-c
+We have done a C programming project on Election System as given below. It is based on election in which there are 3 candidates the voters can vote one of them & one voter can  give vote once.  In Election System the admin only can see the winner & status of system. Each voter has a unique user id & password that system can confirm & identify every voter. And last but not the least we can Exit the system by pressing 3 & then enter. This is a short description & also we have given the code & some picture of output.   
